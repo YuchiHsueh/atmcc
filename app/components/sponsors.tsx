@@ -8,7 +8,7 @@ const Sponsors = () => {
       <h2 className="text-3xl font-bold mb-6 text-center">Nuestros Sponsors</h2>
       <div className="container mx-auto">
         <div className="flex flex-wrap gap-8 items-center justify-center">
-          {["city", "donic", "donic2", "wang", "yinhe"].map((num) => (
+          {["donic", "wang","city", "yinhe"].map((num) => (
             <div key={num} className="flex-shrink-0">
               <Image
                 src={`/sponsors/${num}.png`}

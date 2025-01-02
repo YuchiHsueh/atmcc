@@ -18,17 +18,17 @@ export default function Navbar() {
           </Link>
         </div>
         <div className="flex gap-6 text-sm font-medium uppercase tracking-wide">
-          <Link href="/about" className="hover:text-gray-400">
-            About
+          <Link href="/" className="hover:text-gray-400">
+            Sobre Nosotros
           </Link>
-          <Link href="/products" className="hover:text-gray-400">
-            Products
+          <Link href="/" className="hover:text-gray-400">
+            Nuestros Jugadores
           </Link>
-          <Link href="/events" className="hover:text-gray-400">
-            Events
+          <Link href="/" className="hover:text-gray-400">
+            Nuestros Sponsors
           </Link>
-          <Link href="/contact" className="hover:text-gray-400">
-            Contact
+          <Link href="/" className="hover:text-gray-400">
+            Contactanos
           </Link>
         </div>
       </div>
