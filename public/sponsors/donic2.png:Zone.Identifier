@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/28b86a86-1aab-434f-baf2-ee24e2b59c39/donic2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250102%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250102T191102Z&X-Amz-Expires=86400&X-Amz-Signature=71f5936322f1e7c22420b234083b82a91bcb54de9ba2df96ea96c35effa50e47&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22donic2.png%22&response-content-type=image%2Fpng&x-id=GetObject
